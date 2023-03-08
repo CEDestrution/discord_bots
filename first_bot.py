@@ -161,4 +161,4 @@ async def on_message(message):
         if(error_text != None):
             await message.channel.send(error_text)
 
-client.run('Paste Token Here')
+client.run('MTA4MzAwNjc0MzU0Nzc1NjYyNQ.GlqxeX.1krw7V12syUJpjPDMCh_f2seBUT4TJbnH462GA')
